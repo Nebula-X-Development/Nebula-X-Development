@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/Nebula Banner.png" alt="Nebula-X Logo">
 <p align="center"> https://nx.above.gay
 <p align="center">![](https://komarev.com/ghpvc/?username=Nebula-X-Development&color=green)
+[![Abovescore, he/they, Web developer](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nebula-x-Owner;Sigma;Web-design)](https://git.io/typing-svg)
 
 # 👾 - Hello :3
 hi! Welcome to Nebula-X-development. I make unblockers/games/proxies to bypass school blockers. :) I'm not super experienced but I know my way around. I'm definitely looking to grow my community and reach. I like to make anything I make look good. I cannot have a site that doesn't look appealing to the eye. my main goal is to provide unblocked access to anything. even if that means supporting other proxies/game sites. if you're reading this maybe drop a follow! It'd mean a lot to me if you did. enjoy my stuff :3 

@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nebula-X-Development/Nebula-X-BETA/refs/heads/main/Nebula Banner.png" alt="Nebula-X Logo">
-<p align="center"> https://nx.above.gay
+<p align="center"> https://nx.above.gay<
+  
 ![](https://komarev.com/ghpvc/?username=Nebula-X-Development&color=green)
 
 # 👾 - Hello :3
